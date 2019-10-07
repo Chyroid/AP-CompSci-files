@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>Trucks</label>
+	</settings>
+	<users>
+		<user>
+			<path>Trucks.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Trucks.jcp</path>
+		</project>
+	</projects>
+</workspace>
